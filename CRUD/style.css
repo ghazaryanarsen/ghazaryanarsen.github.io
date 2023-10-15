@@ -1,0 +1,70 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #b0d9b1;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  padding: 20px 0;
+}
+.back {
+  margin-bottom: 50px;
+}
+.back a {
+  font-size: 25px;
+  padding: 10px;
+  margin-bottom: 50px;
+  text-decoration: none;
+  color: white;
+  border: 3px solid #618264;
+}
+h2 {
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+#todoText {
+  border: 3px solid #618264;
+  padding: 7px 8px;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.btn {
+  padding: 7px 100px;
+  margin-bottom: 8px;
+  background-color: #79ac78;
+  border: 3px solid #618264;
+  color: #d0e7d2;
+  font-size: 18px;
+}
+
+
+
+.form-check {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.form-check-label {
+  width: 100%;
+  padding: 7px 80px;
+  background-color: #d0e7d2;
+  border: 5px solid #618264;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #618264;
+  font-weight: 900;
+}
+
+.close-btn {
+  padding: 3px;
+  background: #d0e7d2;
+  border: 2px solid #618264;
+  color: #618264;
+  text-align: center;
+  align-items: center;
+}
